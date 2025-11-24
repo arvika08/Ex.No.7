@@ -180,18 +180,18 @@ Examples:
 
 ### **AcademicBuddy:**
 
-✅ **Assignment Added**
+**Assignment Added**
 
 * **DBMS Assignment**
 * **Priority:** High
 * **Due:** Friday
 
-📌 **Pending This Week:**
+**Pending This Week:**
 
 * DBMS Assignment – Friday
 * Maths Tutorial – Wednesday
 
-💡 *Study Tip:* Break large tasks into 30-minute focused sessions.
+*Study Tip:* Break large tasks into 30-minute focused sessions.
 
 ---
 
@@ -201,14 +201,14 @@ Examples:
 
 ### **AcademicBuddy:**
 
-🗓 **Thursday Timetable:**
+**Thursday Timetable:**
 
 * 9–10 AM: Digital Electronics
 * 11–12 PM: Python Lab
 * 2–4 PM: Mini Project Work
 
-✨ *Free Slot:* 12–2 PM → Perfect for assignment work!
-💡 *Tip:* Review your DBMS notes before lab.
+*Free Slot:* 12–2 PM → Perfect for assignment work!
+*Tip:* Review your DBMS notes before lab.
 
 ---
 
