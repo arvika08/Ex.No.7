@@ -122,7 +122,8 @@ Define key capabilities:
 
 
 * Home Interface: <img width="1286" height="827" alt="image" src="https://github.com/user-attachments/assets/4138eefc-251a-4644-b5f3-429d814134c2" />
-* Timetable Output: <img width="1251" height="717" alt="image" src="https://github.com/user-attachments/assets/bca69071-7f00-4e96-b362-b92eb5ed2ec8" /> <img width="1228" height="841" alt="image" src="https://github.com/user-attachments/assets/97ded067-2625-45c2-a804-7935c097b4ab" />
+* Timetable Output: <img width="1282" height="834" alt="image" src="https://github.com/user-attachments/assets/835127b5-5fcd-4507-9674-4bdda141db09" />
+<img width="1251" height="717" alt="image" src="https://github.com/user-attachments/assets/bca69071-7f00-4e96-b362-b92eb5ed2ec8" /> <img width="1228" height="841" alt="image" src="https://github.com/user-attachments/assets/97ded067-2625-45c2-a804-7935c097b4ab" />
 
 
 * Assignment List: <img width="1237" height="836" alt="image" src="https://github.com/user-attachments/assets/07735cbd-6815-4c3e-b032-ece09d7dfb4f" />
